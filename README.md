@@ -1,1 +1,7 @@
 # Embedded-System
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: Valmiki Teja Kumar
+*INTERN ID*: CT08DK974
+*DOMAIN*: EMBEDDED SYSYTEM
+*DURATION*: 8 WEEKS
+*MENTOR*: Neela Santhosh Kumar  
