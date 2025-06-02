@@ -37,9 +37,10 @@ A collection of hands-on projects exploring embedded systems, microcontroller pr
 * Software: Arduino IDE, Serial Monitor, MIT App Inventor (optional for mobile UI)
 * Communication: Bluetooth, Serial Interface
 
-![image alt](https://github.com/Valmiki01/Embedded-System/blob/d581a2fc48114a5cb502e5329082b6eb852f2115/Embedded%20Systems%20Task_%201.png)
-
 ## 📁 Notes:
 * Each project folder contains: source code (.ino), circuit diagram, and README.
 * Code is properly commented for clarity.
 * Designed using resources such as YouTube tutorials, Google documentation, and ChatGPT guidance.
+
+## TASK 1:- PUSH BUTTON COUNTER
+![image alt](https://github.com/Valmiki01/Embedded-System/blob/d581a2fc48114a5cb502e5329082b6eb852f2115/Embedded%20Systems%20Task_%201.png)
