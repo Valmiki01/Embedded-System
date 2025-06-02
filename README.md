@@ -45,4 +45,4 @@ A collection of hands-on projects exploring embedded systems, microcontroller pr
 ## TASK 1:- PUSH BUTTON COUNTER
 ![image alt](https://github.com/Valmiki01/Embedded-System/blob/d581a2fc48114a5cb502e5329082b6eb852f2115/Embedded%20Systems%20Task_%201.png)
 ## TASK 2:-  HOME AUTOMATION WITH BLUETOOTH
-![image alt]()
+![image alt](https://github.com/Valmiki01/Embedded-System/blob/aaf605a75b858048b6850cce2dd12a3d068fea37/TASK%202%20Circuit.pdf)
