@@ -46,3 +46,5 @@ A collection of hands-on projects exploring embedded systems, microcontroller pr
 ![image alt](https://github.com/Valmiki01/Embedded-System/blob/d581a2fc48114a5cb502e5329082b6eb852f2115/Embedded%20Systems%20Task_%201.png)
 ## TASK 2:- HOME AUTOMATION WITH BLUETOOTH
 ![image alt](https://github.com/Valmiki01/Embedded-System/blob/019d98fbbd873b93f3f14227ef6ee348cd91b004/222%20circuit_page-0001.jpg)
+## TASK 3:- TEMPERATURE MONITORNING SYSTEM
+![image alt](https://github.com/Valmiki01/Embedded-System/blob/743d845cbab129df9a8f970f8465568bb0ea52c0/TEMPERATURE%20MONITORING%20SYSTEM%20TASK%20_%203.png)
