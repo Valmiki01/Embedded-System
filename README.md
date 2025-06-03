@@ -48,3 +48,5 @@ A collection of hands-on projects exploring embedded systems, microcontroller pr
 ![image alt](https://github.com/Valmiki01/Embedded-System/blob/019d98fbbd873b93f3f14227ef6ee348cd91b004/222%20circuit_page-0001.jpg)
 ## TASK 3:- TEMPERATURE MONITORNING SYSTEM
 ![image alt](https://github.com/Valmiki01/Embedded-System/blob/743d845cbab129df9a8f970f8465568bb0ea52c0/TEMPERATURE%20MONITORING%20SYSTEM%20TASK%20_%203.png)
+## TASK 4:- SPEECH RECOGNITION SYSTEM
+![image](https://github.com/Valmiki01/Embedded-System/blob/8c6efcd39a794cfd83aa9a93ed791a2d022fed4f/task4%20circuit_page-0001.jpg)
